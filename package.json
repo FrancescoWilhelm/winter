@@ -1,18 +1,22 @@
 {
-  "name": "bk-1810-francesco",
+  "name": "bk-1810-winter",
   "version": "0.0.1",
   "description": "A test pageage",
   "main": "index.js",
   "scripts": {
     "test": "mocha"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/francescoWang/winter.git"
+  },
   "keywords": [
     "bk-1810"
   ],
-  "repository": {
-    "type": "Git",
-    "url": "git+https://github.com/blackwuxin/testdemo.git"
-  },
   "author": "francesco",
-  "license": "MIT"
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/francescoWang/winter/issues"
+  },
+  "homepage": "https://github.com/francescoWang/winter#readme"
 }
